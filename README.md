@@ -1,10 +1,4 @@
-# 💫 About Me:
-🔭 I'm currently working on exciting projects
-👯 I'm looking to collaborate on open source initiatives
-🤝 I'm looking for help with learning new technologies
-🌱 I'm currently learning advanced programming concepts
-💬 Ask me about coding, development, and tech
-⚡ Fun fact: I love creating beautiful GitHub profiles!
+# Romanov Alexander
 
 
 ## 🌐 Socials:
