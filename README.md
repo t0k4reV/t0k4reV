@@ -5,6 +5,7 @@ https://www.kaggle.com/asromanov
 https://steampoint.fun
 https://leadershow.ru
 VPN сервис
+Бот автопостинга контента (тексты, изображения) в MAX на базе нейросетей
 
 Skincode — технология подбора тонального средства (тоналки) по снимку кожи, технологии — opencv, ml и тд.
 
