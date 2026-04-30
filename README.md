@@ -12,7 +12,7 @@ VPN сервис
 
 Skincode — технология подбора тонального средства (тоналки) по снимку кожи, технологии — opencv, ml и тд.
 
-# Data/Product/Business analyst
+# Data/Product analyst
 Провожу A/B тесты, изучаю данные, проверяю гипотезы, строю дашборды и ML модели для предсказания метрик
 Резюме: https://www.linkedin.com/in/ras0087/
 
