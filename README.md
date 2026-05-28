@@ -3,9 +3,6 @@
 https://www.kaggle.com/asromanov
 # Projects
 https://steampoint.fun
-
-https://leadershow.ru
-
 VPN сервис
 
 Бот автопостинга контента (тексты, изображения) в MAX на базе нейросетей
