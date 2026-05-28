@@ -1,4 +1,5 @@
 # Romanov Alexander
+Product Analyst at dmtech.team
 # Kaggle
 https://www.kaggle.com/asromanov
 # Projects
