@@ -3,7 +3,8 @@ Product Analyst at dmtech.team
 # Kaggle
 https://www.kaggle.com/asromanov
 # Projects
-https://steampoint.fun \ 
+https://steampoint.fun 
+
 VPN сервис
 
 Бот автопостинга контента (тексты, изображения) в MAX на базе нейросетей
