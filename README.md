@@ -6,6 +6,7 @@ https://www.kaggle.com/asromanov
 
 # Data/Product analyst
 Провожу A/B тесты, изучаю данные, проверяю гипотезы, строю дашборды и ML модели для предсказания метрик
+
 Резюме: https://www.linkedin.com/in/ras0087/
 
 
