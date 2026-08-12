@@ -8,8 +8,6 @@ https://www.kaggle.com/asromanov
 Провожу A/B тесты, изучаю данные, проверяю гипотезы, строю дашборды и ML модели для предсказания метрик
 Резюме: https://www.linkedin.com/in/ras0087/
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
